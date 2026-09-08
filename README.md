@@ -128,11 +128,11 @@ Test_Report
 0
 
 
- Документация проекта
+ окументация проекта
 
 📁 Postman Collection
 
-[Открыть коллекцию Postman](./Postman/JSONPlaceholder_API_Testing.postman_collection.json)
+[Открыть коллекцию Postman](./Postman/JSONPlaceholder%20API%20Testing.postman_collection.json)
 
 
 📄 API Test Cases
