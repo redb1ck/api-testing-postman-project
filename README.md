@@ -128,6 +128,25 @@ Test_Report
 0
 
 
- Автор
+ Документация проекта
 
-QA Engineer portfolio project
+📁 Postman Collection
+
+[Открыть коллекцию Postman](./Postman/JSONPlaceholder_API_Testing.postman_collection.json)
+
+
+📄 API Test Cases
+
+[Открыть тест-кейсы](./API_Test_Cases/API_Test_Cases.md)
+
+
+📊 Test Report
+
+[Открыть отчёт](./Test_Report/API_Test_Report.md)
+
+
+🖼 Screenshots
+
+[Открыть скриншоты](./Screenshots)
+
+
